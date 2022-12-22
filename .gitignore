@@ -17,3 +17,4 @@ CMakeCache.txt
 CMakeFiles
 CMakeSettings.json
 version.c
+.cache
